@@ -23,7 +23,7 @@ public/
 - 📞 Phone: +254112260924
 - 📧 Email: mumiaktechnologies@gmail.com
 
-MumiakTech – Turning Ideas into Reality 🚀
+MumiakTech – Innovate. Build. Transform.
 
 
 ## Commands
